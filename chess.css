@@ -1,0 +1,31 @@
+body
+{
+    height:800px;
+    width:800px;
+    border-style:solid ;
+
+}
+.row
+{
+    height:100px;
+    width:800px;
+}
+.white
+{
+    height:100px;
+    width:100px;
+    background-color: white;
+    float: left;
+    font-size:larger;
+}
+.black
+{
+    height:100px;
+    width:100px;
+    background-color:black;
+    float: left;
+}
+div
+{
+    font-size: 50px;
+}
